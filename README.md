@@ -12,7 +12,7 @@
 
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/2of93sL.gif"  />
+  <img height="500" src=![GIF](https://i.imgur.com/2of93sL.gif)  />
 </div>
 
 ###
