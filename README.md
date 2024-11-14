@@ -1,21 +1,25 @@
-<h1 align="left">Hi 👋! My name is 0xSk1pR ... and I'm hope be Security Engineer ...</h1>
+<h2 align="left">Welcome in my Github 🌍👋!</h3>
+<h4 align="left"> My name is 0xSk1pR👨‍💻</h4>
+<h4 align="left"> I'm hoping to be a Security Engineer💻🏴‍☠️</h4>
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/0xSk1pR/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/0xSk1pR/count.svg?" />
 </div>
 
 ###
-
 
 <div align="center">
-  <img height="500" src=![GIF](https://i.imgur.com/2of93sL.gif)  />
+  <img height="400" src="https://github.com/0xSk1pR/0xSk1pR/blob/main/Github_en.gif?raw=true" />
 </div>
 
 ###
+
+
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/0xsk1pr/" target="_blank">
@@ -26,17 +30,34 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="30" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="40" alt="appwrite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=flutter" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dart" height="30" alt="dart logo"  />
 </div>
 
 ###
